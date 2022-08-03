@@ -6,7 +6,7 @@ body {
 	line-height: 1.6;
 	margin: 0;
 	min-height: 100vh;
-	background-color: rgb(250, 246, 254) !important;
+	background-color: rgb(243, 243, 243) !important;
 }
 ul {
   margin: 0;
@@ -90,3 +90,4 @@ a {
 .badge{
 	background-color: #3e2767;
 }
+
